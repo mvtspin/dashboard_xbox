@@ -1,2 +1,5 @@
 # dashboard_xbox
-Arquivo .xlsx  que contém um dashboard baseado em uma tabela de dados de assinantes dos serviços do XBOX.
+Informações contidas no dashboard:
+- receita proveniente das assinaturas do EA Play Season Pass e do Minecraft Season Pass, segmentada por mês, trimestre e ano
+- receita gerada por novos assinantes, segmentada por mês, trimestre e ano
+- distribuição de assinantes por tipo de plano.
